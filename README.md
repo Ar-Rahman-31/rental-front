@@ -204,4 +204,3 @@ Current coverage:
 ---
 
 ## License
-MIT – feel free to use, modify, and distribute.
